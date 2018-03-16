@@ -1,1 +1,21 @@
+1.下列代码执行结果是什么?
+x = 1
+def change(a):
+x += 1
+print x
+change(x)
 
+A.1              B.2               C.3               D.报错
+
+
+首先排版有问题，应改为:
+x=1
+def change(a):
+    x+=1
+    print x
+
+change(x)
+
+其次，程序语法上会报错，会出现以下错误:
+"UnboundLocalError: local variable 'x' referenced before assignment"
+    

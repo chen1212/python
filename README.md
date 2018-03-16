@@ -1,7 +1,7 @@
 ----
 python
 ====
-    `AFAIK`: As far as I know.         据我所知
+    AFAIK: `As` far as I know.         据我所知
     SPOF:  Single point of failure。 单节点崩溃
     ASAP:  As soon as possible。     马上，尽快
     BTW:   By the way。              顺便说一下

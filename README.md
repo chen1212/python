@@ -1,6 +1,7 @@
 ----
 python
 ====
+****
     AFAIK: As far as I know.         据我所知
     SPOF:  Single point of failure。 单节点崩溃
     ASAP:  As soon as possible。     马上，尽快
@@ -18,7 +19,7 @@ python
     i.e.   也就是... 
     e.g.   例如,举例来说
     etc.   等等
-    work at home . 在家办公
+    work at home. 在家办公
 
     Github首页
     Pull requests   请求

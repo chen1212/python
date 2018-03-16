@@ -1,7 +1,6 @@
 ----
 python
 ====
-[liianjie](http://blog.csdn.net/u012067966/article/details/50736647)<br>
     AFAIK: As far as I know.         据我所知
     SPOF:  Single point of failure。 单节点崩溃
     ASAP:  As soon as possible。     马上，尽快

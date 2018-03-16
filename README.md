@@ -73,41 +73,25 @@ python
 
     GitHub uses the email address you set in your local Git configuration to associate commits with your GitHub account.
     GitHub 使用您在中设置的电子邮件地址您本地的 Git 配置相关联，即属与您 GitHub 的帐户。
+    
+    Setting your local Git email address using the git config command
+    使用 git config 命令配置你本地的 Git 的电子邮件地址
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    Register a new OAuth application            登记一个新的OAuth应用
+    Something users will recognize and trust    用户将识别和信任的东西
+    Homepage URL                                个人主页URL
+    The full URL to your application homepage   完整的网址到您的应用程序主页
+    This is displayed to all potential users of your application
+    这被显示给您的应用程序的所有潜在用户
+    
+    Authorization callback URL                  授权的回调URL
+    
+    Your application’s callback URL. Read our OAuth documentation for more information.
+    您的应用程序的回调 URL。阅读我们 OAuth 文档以了解更多信息。
     Unwatch                        关闭查看
     Not watching                   不看
     Star                           星级
     Tags                           标签
     Use Git or checkout with SVN using the web URL
     使用git或结帐svn使用Web URL。
-
-
-
-
-
-
-
-
 

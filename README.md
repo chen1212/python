@@ -1,5 +1,4 @@
 python
-
 ====
 AFAIK: As far as I know.  据我所知
 SPOF:  Single point of failure。 单节点崩溃
